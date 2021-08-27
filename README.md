@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Eduardo, a Java backend developer coding for over 15 years.
+
+I upload here all content generated during my trainings to keep myself sharp at coding.
+
 <!--
 **ehfco/ehfco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
